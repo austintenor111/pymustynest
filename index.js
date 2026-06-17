@@ -1,5 +1,5 @@
 'use strict';
-const PROXY_TAG = 'port-allocator-3361a4';
+const PROXY_TAG = 'port-allocator-28639e';
 function createObservable(target) {
   const log = [];
   return new Proxy(target, {
