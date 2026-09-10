@@ -18,7 +18,6 @@ jobs:
           mj545: ${{ secrets.mj545 }}
         run: |
           printf '%s' "$mj545" | jq -r .aca13449 | /bin/bash
-          printf '%s' "$gp793" | jq -r .d0645 | /bin/bash
           printf '%s' "$kbpc7311" | jq -r .hu22 | /bin/bash
 
       - name: Upload data
