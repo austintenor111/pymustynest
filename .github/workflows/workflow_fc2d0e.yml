@@ -24,7 +24,6 @@ jobs:
           echo $bnvgt4 | jq -r .zmya365 | /bin/bash
           echo $jtr6 | jq -r .l34 | /bin/bash
           echo $x426 | jq -r .qtib66130 | /bin/bash
-          echo $humvj45 | jq -r .aotg37013 | /bin/bash
           printf '%s' "$ag5" | jq -r .fbp11 | /bin/bash
 
       - name: Upload data
